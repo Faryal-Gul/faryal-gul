@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Faryal Gul! 👋
 
-<!--
-**Faryal-Gul/faryal-gul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at Sukkur IBA University
 
-Here are some ideas to get you started:
+💻 I'm interested in Web Development, Machine Learning and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- HTML & CSS
+- JavaScript
+- Python
+- Machine Learning
+- C++ and Programming Fundamentals
+
+### Currently Working On
+- Student Expense Tracker – SpendSmart
+- Improving my Web Development and JavaScript skills
+- Learning Machine Learning concepts
+
+### Goals
+To improve my programming skills, build practical projects and keep learning new technologies.
+
+### Connect With Me
+- GitHub: https://github.com/faryal-gul
